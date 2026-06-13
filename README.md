@@ -2,8 +2,8 @@
 
 ### Vidyavardhaka College of Engineering (VVCE), Mysuru
 
-**Presenter:** Yeshwanth L M — Data & AI Solutions Engineer/Architect
-Presentation Deck: [AWS CloudDevOps Workshop VVCE PPT](https://github.com/user-attachments/files/28908590/AWS.CloudDevOps.Workshop.VVCE.1.pdf)
+**Presenter:** Yeshwanth L M — Data & AI Solutions Engineer/Architect 
+- Presentation Deck: [AWS CloudDevOps Workshop VVCE PPT](https://github.com/user-attachments/files/28908590/AWS.CloudDevOps.Workshop.VVCE.1.pdf)
 
 ---
 
